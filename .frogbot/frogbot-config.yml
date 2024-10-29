@@ -6,7 +6,7 @@
     git:
       # [Mandatory]
       # Name of the git repository to scan
-      repoName: nuget1
+      repoName: nuget-small
 
       # [Mandatory]
       # List of branches to scan
